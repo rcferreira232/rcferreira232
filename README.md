@@ -17,11 +17,11 @@ Estudante de engenharia de computação, com experiência em desenvolvimento web
 <!--   my-skils -->
 
 <!-- end of my-skills -->
-**📫 How to Reach me:**
+## Contact me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/rafael-cruz-ferreira-50969b220" target="blank"><img src="https://raw.githubusercontent.com/rcferreira232/rcferreira232/master/assets/linkedin.svg" alt="Rafael Cruz" height="30" width="30" /></a>
-<a href="mailto:rafaelcferreira232@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rcferreira232/rcferreira232/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=5521997106801&text=Hello%20World" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/rafaelcferreira232" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rafaelcferreira232@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ### Habilidades
